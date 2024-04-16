@@ -1,0 +1,6 @@
+export const ENABLE_DISABLE_USER = 'ENABLE_DISABLE_USER';
+export const ADD_NEW_USER = 'ADD_NEW_USER';
+export const FETCH_USERS_LIST = 'FETCH_USERS_LIST';
+export const FETCH_USERS_ONLY_LIST = 'FETCH_USERS_ONLY_LIST';
+export const DELETE_USER = 'DELETE_USER';
+export const LOGOUT_APP = 'LOGOUT_APP';

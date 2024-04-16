@@ -1,0 +1,41 @@
+{
+     "companyName": "ExcelWings",
+    "copyrightText": "&copy; 2024. Powered by Knowledge Excel Pvt. Ltd.",
+    "clientName": "Knowledge Excel Pvt. Ltd.",
+    "clientLogo": "/images/Excelwings_logo2.PNG",
+	"quotes": [
+        "It does not matter how slowly you go as long as you do not stop.",
+        "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+        "Life is 10% what happens to you and 90% how you react to it."
+     ],
+    "admin": {
+      "companyName": "ExcelWings",
+      "clientName": "Knowledge Excel Pvt. Ltd.",
+      "clientLogo": "/images/Excelwings_logo2.PNG",
+      "copyrightText": "&copy; 2024. Powered by Knowledge Excel Pvt. Ltd.",
+      "quotes": [
+        "It does not matter how slowly you go as long as you do not stop.",
+        "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+        "Life is 10% what happens to you and 90% how you react to it."
+      ],
+      "help": {
+        "youtubeVideoID": "",
+        "content": ["This online tool is useful to run an excel macro without any need to share or run the files on a local system. It prevents our macros to get distributed amongst peers.<br><br>This can be accessed from anywhere, wherein the user only needs to import an input file in a specified format. The sample input is available under the project name which you want to run the macro for.<br><br><ol><li><b>Manage Projects –</b><ol type='a'><li>This tab shows all projects created in the tool. The admin can archive/ create new projects in this tab.</li><li>The admin can also, edit files previously uploaded for any project by re-uploading the updated files. The new file uploaded will replace the previously uploaded file.</li><li>The admin can also grant access of a project to any user within this tab. Only project shared with the user are visible at user’s end.</li></ol></li><br><li><b>Archived Projects –</b><ol type='a'><li>All archived projects are listed here. The admin can restore a project archived earlier from this tab.</li></ol></li><br><li><b>Macro Information –</b><ol type='a'><li>This tab list all records when the project macro was used. Whenever a user or admin runs the macro for any project an entry is added in this tab with the user who ran the macro mentioning data created on, # of downloads status etc.…</li></ol></li><br><li><b>Macro Information –</b><ol type='a'><li>The admin can create/edit/ delete users here.</li></ol></li><br><li><b>Manage Files –</b><ol type='a'><li>If there are any external files to import in the output files the admin can upload these here and use the files in the macros as required.</li></ol></li><br><li><b>Logs –</b><ol type='a'><li>All logs are listed here for the projects. These can be used to debug any issues in running the files.</li></ol></li></ol><br><br><b>How To Use –</b><br><ol><li>Create a new project –<ol type='a'><li>To create a new Project, click on the ‘Create Button’ in the Manage Projects tab.</li><li>A pop-up will appear to enter the project name and for uploading the macro and the input file (See below).<br><img width='60%' src='/images/image001.jpg'></li><br><li>Enter the Project name you wish to keep in the input box and upload the necessary files <i>(The input files should be in .xlsx format, and the macro file will be in .xlsm format)</i>. Once done click on the ‘Create Project’ button. To cancel click on the ‘Cancel’ button.</li><li>The project will be listed with name specified and can be used to run multiple times.</li><li>To download the macro file uploaded for the Project, click on the <img width=21 height=23 src='/images/image002.jpg'> icon. To download the template for the input file, click on the <img width=21 height=23 src='/images/image003.jpg'> icon.<br><img width='60%' src='/images/image004.jpg'></li><br></ol></li><li>To run and export the output file for an already created Project. –<ol type='a'><li>Click on the <img width=21 height=23 src='/images/image005.jpg'> icon for the Project you wish to run the macro for.</li><li>Now click on ‘Upload Excel’ button, to upload the input file. A pop-up will appear.</li><li>Enter the study name and upload the input file is same format as provided as template. Once done click on the ‘Upload Excel’ button within the pop-up.<br><img width='60%' src='/images/image006.jpg'></li><br><li>As soon you press the ‘Upload Excel’ button, the file in uploaded and the request is queued to run. Once any previous task is completed, this entry will be processed.<br><img width='60%' src='/images/image007.jpg'></li><br><li>Once the macro runs and the output file is processed and is ready to export. Status is updated to complete. You can download the processed file/ source files by clicking on the download buttons.<br><img width='60%' src='/images/image008.jpg'></li></ol></li></ol>"]
+      }
+    },
+    "user": {
+      "companyName": "ExcelWings",
+      "clientName": "Knowledge Excel Pvt. Ltd.",
+      "clientLogo": "/images/Excelwings_logo2.PNG",
+      "copyrightText": "&copy; 2024. Powered by Knowledge Excel Pvt. Ltd.",
+      "quotes": [
+        "It does not matter how slowly you go as long as you do not stop.",
+        "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+        "Life is 10% what happens to you and 90% how you react to it."
+      ],
+      "help": {
+        "youtubeVideoID": "",
+        "content": ["This online tool is useful to run an excel macro without any need to share or run the files on a local system. It prevents our macros to get distributed amongst peers.<br><br>This can be accessed from anywhere, wherein the user only needs to import an input file in a specified format. The sample input is available under the project name which you want to run the macro for.<br><br><b>Manage Projects –</b><ol><li>This tab shows all projects created and shared with you in the tool.</li><li>To run the output for a shared project. Please click on the <img width=21 height=23 src='/images/image005.jpg'> icon (Run Files) and import the input file.</li><li>The template is provided for the macro in the project row. You can download this and update your file in same format, please make sure to add all field mentioned to run successfully run the macro and export the output file.</li></ol><br><br><b>How to use (Users):</b><br><br>To run and export the output file for an already created Project. - <ol type='a'><li>Click on the <img width=21 height=23 src='/images/image005.jpg'> icon for the Project you wish to run the macro for.</li><li>Now click on ‘Upload Excel’ button, to upload the input file. A pop-up will appear.</li><li>Enter the study name and upload the input file is same format as provided as template. Once done click on the ‘Upload Excel’ button within the pop-up.</li><br><img width='60%' src='/images/image009.jpg'><br><li>As soon you press the ‘Upload Excel’ button, the file in uploaded and the request is queued to run. Once any previous task is completed, this entry will be processed</li><br><img width='60%' src='/images/image010.jpg'><br><li>Once the macro runs and the output file is processed and is ready to export. Status is updated to complete. You can download the processed file/ source files by clicking on the download buttons.</li><br><img width='60%' src='/images/image011.jpg'></ol>"]
+      }
+    }
+  }

@@ -1,0 +1,4 @@
+export const FETCH_LOGS = 'FETCH_LOGS';
+export const DOWNLOAD_FILE_LOG = 'DOWNLOAD_FILE_LOG';
+export const FETCH_MACRO_INFO = 'FETCH_MACRO_INFO';
+export const ABORT_PROCESS = 'ABORT_PROCESS';
